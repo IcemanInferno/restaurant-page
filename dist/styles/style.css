@@ -1,0 +1,45 @@
+html {
+    background-image: url('https://i.pinimg.com/originals/42/b5/1d/42b51df54a98892589cea4ccb361576e.jpg');
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#content {
+    text-align: center;
+    color: white;
+    font-size: 26px;
+    text-shadow: 2px 2px 6px black;
+
+}
+
+#tab-content {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    max-width: 75%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 28px;
+}
+
+button {
+    background-color: whitesmoke;
+    height: 50px;
+    width: 400px;
+    font-size: 26px;
+    border-radius: 5px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+
+
+
